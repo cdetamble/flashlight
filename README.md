@@ -4,7 +4,7 @@
 
 [![version](https://img.shields.io/badge/version-1.0-2095ff.svg)](CHANGELOG.md)
 [![license](https://img.shields.io/badge/license-GPL--3.0-2095ff.svg)](LICENSE.md)
-[![download](https://img.shields.io/badge/download-playstore-2095ff.svg)](http://goo.gl/l1lngU)
+[![download](https://img.shields.io/badge/download-playstore-2095ff.svg)](https://goo.gl/Pno3oZ)
 
 You can follow me on my <a href="https://goo.gl/U0x1Fy">development blog</a> for the latest news on this and other projects of mine.
 
@@ -12,7 +12,7 @@ You can follow me on my <a href="https://goo.gl/U0x1Fy">development blog</a> for
 
 App now available on Google Play Store.
 
-<a href="http://goo.gl/l1lngU"><img src="http://therefactory.bplaced.net/img/google-play-badge.png" width="30%"></a>
+<a href="https://goo.gl/Pno3oZ"><img src="http://therefactory.bplaced.net/img/google-play-badge.png" width="30%"></a>
 
 ## Screenshots
 
