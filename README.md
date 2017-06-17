@@ -12,7 +12,7 @@ You can follow me on my <a href="https://goo.gl/U0x1Fy">development blog</a> for
 
 App now available on Google Play Store.
 
-<a href="http://goo.gl/l1lngU"><img src="http://therefactory.bplaced.net/img/google-play-badge.png" width="180"></a>
+<a href="http://goo.gl/l1lngU"><img src="http://therefactory.bplaced.net/img/google-play-badge.png" width="30%"></a>
 
 ## Screenshots
 
