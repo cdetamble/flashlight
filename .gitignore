@@ -149,10 +149,4 @@ build/
 Security.java
 
 ## Custom
-/android/assets/crypt
-/excluded-resources/Video
-/excluded-resources/music
-/excluded-resources/libgdx token.txt
-HTTP.java
-Security.java
-HttpServer.java
+.idea
