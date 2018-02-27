@@ -22,6 +22,17 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     };
+    private CameraManager.TorchCallback disableTorchCallback = new CameraManager.TorchCallback() {
+        @Override
+        public void onTorchModeChanged(@NonNull String cameraId, boolean enabled) {
+            super.onTorchModeChanged(cameraId, enabled);
+            try {
+                mCameraManager.setTorchMode(cameraId, false);
+            } catch (CameraAccessException e) {
+                e.printStackTrace();
+            }
+        }
+    };
     private CameraManager.TorchCallback enableTorchCallback = new CameraManager.TorchCallback() {
         @Override
         public void onTorchModeChanged(@NonNull String cameraId, boolean enabled) {

@@ -38,8 +38,8 @@ captures/
 
 # Intellij
 *.iml
-
-
+.idea/workspace.xml
+.idea/libraries
 
 # Keystore files
 *.jks
@@ -103,7 +103,7 @@ android/libs/armeabi/
 android/libs/armeabi-v7a/
 android/libs/x86/
 android/gen/
-
+.idea/
 *.ipr
 *.iws
 *.iml
@@ -149,4 +149,11 @@ build/
 Security.java
 
 ## Custom
-.idea/
+/android/assets/crypt
+/excluded-resources/Video
+/excluded-resources/music
+/excluded-resources/libgdx token.txt
+HTTP.java
+Security.java
+HttpServer.java
+/core/src/at/therefactory/jewelthief/net/HttpServer.java
