@@ -2,7 +2,7 @@
 
 *The most simplistic flashlight app for Android.*
 
-[![version](https://img.shields.io/badge/version-1.0-2095ff.svg)](CHANGELOG.md)
+[![version](https://img.shields.io/badge/version-1.1-2095ff.svg)](CHANGELOG.md)
 [![license](https://img.shields.io/badge/license-GPL--3.0-2095ff.svg)](LICENSE.md)
 [![download](https://img.shields.io/badge/download-playstore-2095ff.svg)](https://goo.gl/Pno3oZ)
 
